@@ -5,8 +5,9 @@
 
 
 # Sample Screenshots 🚀
-![2022-08-04_19-37_2](https://user-images.githubusercontent.com/70338720/182979386-e2d3be39-c048-4db3-b7a9-485b6d3f283f.png)
-![2022-08-04_19-36](https://user-images.githubusercontent.com/70338720/182979390-ddda2e86-0e20-4b58-b7cc-d91cca038b30.png)
+![2022-08-04_20-02](https://user-images.githubusercontent.com/70338720/182979890-93addc25-fa8f-4c86-86cf-a31f7674ae18.png)
+
+
 ![2022-08-04_19-37_1](https://user-images.githubusercontent.com/70338720/182979398-8eaac7c4-abf4-4d3f-86e9-fbd6ecdc0613.png)
-![2022-08-04_19-37_2](https://user-images.githubusercontent.com/70338720/182979399-4bec3f43-70d2-4740-b3c1-3636f6f5a5b5.png)
+
 ![2022-08-04_19-41](https://user-images.githubusercontent.com/70338720/182979402-7970508a-40a2-4f8b-ae30-1885cf5e1757.png)
